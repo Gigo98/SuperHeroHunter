@@ -18,3 +18,5 @@ Shows the list of characters added to the favorites list.
 
 Shows details about the carachter.
 Has a heart icon, which can be used to add/remove the character to/from the favorites list.
+
+https://gigo98.github.io/SuperHeroHunter/index.html
